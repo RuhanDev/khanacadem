@@ -114,7 +114,7 @@ let item, question;
             if (!window.loaded) {
                 console.clear();
                 console.log("%c Answer Revealer ", "color: mediumvioletred; -webkit-text-stroke: .5px black; font-size:40px; font-weight:bolder; padding: .2rem;");
-                console.log("%cCreated by Alex Dubov (@adubov1)", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
+                console.log("%cCreated by ruhandev gnu 2023", "color: white; -webkit-text-stroke: .5px black; font-size:15px; font-weight:bold;");
                 window.loaded = true;
             }
 
